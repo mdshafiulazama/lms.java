@@ -1,0 +1,16 @@
+Computer,CSE-1,101,1,6
+Computer,CSE-2,102,1,9
+Computer,CSE-3,103,1,10
+Electronics,EEE-1,201,2,8
+Electronics,EEE-2,202,2,10
+Electronics,EEE-3,203,2,9
+English,ENG-1,301,3,10
+English,ENG-2,302,3,10
+English,ENG-3,303,3,9
+Civil,Build-1,401,4,8
+Civil,Build-2,402,4,10
+Civil,Build-3,403,4,10
+Mechanical,MEC-1,501,5,10
+Mechanical,MEC-2,502,5,9
+Mechanical,MEC-3,503,5,10
+Accounting,Ace,701,7,9
